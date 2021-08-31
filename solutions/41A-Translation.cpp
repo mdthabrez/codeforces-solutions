@@ -2,7 +2,6 @@
 #include <algorithm>
 #include <ctype.h>
 #include <string.h>
-#include <vector> 
 using namespace std;
  
 int main()
