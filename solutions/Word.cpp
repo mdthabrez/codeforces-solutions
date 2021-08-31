@@ -2,7 +2,6 @@
 #include <ctype.h>
 #include <string.h>
 using namespace std;
-
 int main()
 {
     char word[110];
